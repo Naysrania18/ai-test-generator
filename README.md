@@ -295,24 +295,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by research in automated testing and program synthesis
 - Training data from open-source projects (with proper attribution)
 
-## 📧 Contact
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ai-test-generator/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ai-test-generator/discussions)
-- **Email**: your.email@example.com
 
-## 🗺️ Roadmap
-
-- [x] Core test generation for Python
-- [x] Edge case detection
-- [x] User story parsing
-- [ ] Support for JavaScript/TypeScript
-- [ ] Integration with more test frameworks (Jest, Mocha)
-- [ ] Web UI for test generation
-- [ ] VS Code extension
-- [ ] Cloud-based model training
-- [ ] Support for API testing (REST, GraphQL)
-
----
-
-**Made with ❤️ by the AI Test Generator Team**
