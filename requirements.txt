@@ -1,0 +1,24 @@
+# Core dependencies
+numpy>=1.21.0
+tensorflow>=2.10.0
+keras>=2.10.0
+
+# Code analysis
+ast-comments>=1.1.2
+
+# Configuration
+PyYAML>=6.0
+
+# Testing frameworks
+pytest>=7.0.0
+pytest-cov>=3.0.0
+
+# CLI
+Click>=8.0.0
+
+# Optional: NLP features
+# nltk>=3.8
+# spacy>=3.5.0
+
+# Utilities
+pathlib2>=2.3.7; python_version < '3.4'
